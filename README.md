@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @MaksymLeng
 
 - 👀 I’m interested in **JavaScript development**, game walkthroughs, and crypto trading
-- 🌱 I’m currently learning **React, Node.js, and improving my algorithmic thinking**
+- 🌱 I’m currently learning **Next.js, Auth, PostgerSQL, and improving my algorithmic thinking**
 - 💻 I’m working on building pet-projects and studying computer networks at TUKE
 - 🤝 I’m looking to collaborate on **open-source projects, learning communities, and small utility tools**
 - 📫 How to reach me: [Telegram](https://t.me/Zubenkov)), or via email: maksym.lang@gmail.com
